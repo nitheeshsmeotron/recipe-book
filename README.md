@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# recipe-book
+Recipe App
+>>>>>>> 3f43af5bf0c7a9926aa4a33c8b9b1f6d0e511cb6
